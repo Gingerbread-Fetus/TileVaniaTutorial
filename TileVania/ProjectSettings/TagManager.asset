@@ -17,9 +17,9 @@ TagManager:
   - Climbing
   - Player
   - Background
-  - 
-  - 
-  - 
+  - Enemy
+  - Spikes
+  - Interactables
   - 
   - 
   - 
@@ -44,12 +44,24 @@ TagManager:
   - name: Background
     uniqueID: 652927111
     locked: 0
+  - name: Water
+    uniqueID: 1749293273
+    locked: 0
   - name: Climbing
     uniqueID: 2758141395
+    locked: 0
+  - name: Enemy
+    uniqueID: 1023854837
     locked: 0
   - name: Player
     uniqueID: 556651613
     locked: 0
   - name: Foreground
     uniqueID: 1084520175
+    locked: 0
+  - name: Spikes
+    uniqueID: 3367187363
+    locked: 0
+  - name: Interactables
+    uniqueID: 979002631
     locked: 0
